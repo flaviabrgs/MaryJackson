@@ -7,7 +7,7 @@
 
 <h2>💻 Tecnologias utilizadas </h2>
 <ul>
-  <li>VsCode</li>
+  <li>VSCode</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
